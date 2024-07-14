@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="weather_app">Weather App</string>
+    <string name="london_GB">London, GB</string>
+    <string name="_25_c">25 C</string>
+    <string name="few_clouds">Few Clouds</string>
+    <string name="details">Details : </string>
+    <string name="humidity">Humidity</string>">
+    <string name="max_temp">Max. Temp.</string>"
+    <string name="min_temp">Min. Temp.</string>"
+    <string name="pressure">Pressure</string>"
+    <string name="wind">Wind</string>"
+    <string name="_50">50%</string>
+    <string name="_5">5</string>
+    <string name="_45">45</string>"
+    <string name="change_to_city">Change To City</string>"
+    <string name="weather_icon">Weather Icon</string>"
+    <string name="enter_city_Name">Enter City Name</string>"
+</resources>

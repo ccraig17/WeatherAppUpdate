@@ -36,6 +36,7 @@
             android:drawableStart="@drawable/location_city_icon"
             android:gravity="center"
             android:hint="@string/enter_city_Name"
+            android:textColorHint="@color/white"
             android:padding="15dp"
             android:textColor="@color/white"
             android:textColorHighlight="@color/white"
